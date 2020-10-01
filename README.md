@@ -6,7 +6,7 @@ La tarea la hice utilizando un dispositivo móvil físico.
 
 ## Evidencias
 
-Las evidencias puesden ser encontradas en la carpeta "evidences", contiene los siguientes datos:
+Las evidencias pueden ser encontradas en la carpeta "evidences", la cual contiene los siguientes datos:
 
 * Correcta instalación del entorno de desarrollo para fluter, mediante `flutter doctor`.
 
